@@ -24,7 +24,7 @@ We have a number line from 0-1 and the probabilities of our alphabet are placed 
 
 https://www.youtube.com/watch?v=7vfqhoJVwuc&t=345s
 
-https://cdncontribute.geeksforgeeks.org/wp-content/uploads/arithmetic.png
+![https://cdncontribute.geeksforgeeks.org/wp-content/uploads/arithmetic.png]
 
 
 ## HOW THE CODE WORKS:
